@@ -1,0 +1,10 @@
+print("digite o primeiro numero")
+local num1 = io.read("*n")
+print("digite o segundo numero")
+local num2 = io.read("*n")
+print("digite o terceiro numero")
+local num3 = io.read("*n")
+print("digite o quarto numero")
+local num4 = io.read("*n")
+local soma = (num1 + num2 + num3 + num4) / 4
+print("a média é "..soma)

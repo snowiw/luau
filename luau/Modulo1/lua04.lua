@@ -1,0 +1,7 @@
+print("A soma é " .. (5+10))
+print("A subtração é " .. (10-5))
+print("O negativo de 5 é " .. (-5))
+print("A multiplicação é " .. (5*10))
+print("A divisão é " .. (10/5))
+print("O resto da divisão é " .. (10%3))
+print("A potência é " .. (2^2))
